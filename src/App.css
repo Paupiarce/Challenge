@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+
+}
+
+label{
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.App-link {
+  color: #1f0499;
+  text-decoration: none;
+}
+
+.button{
+  background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+.button:hover{
+  color: black;
+  background-color: transparent;
+  transition: 0.5s;
+}
+.text{
+  border: #1f0499 solid;
+  margin-left: 40px;
+  border-radius: 7px;
+}
+.email{
+  border: #1f0499 solid;
+  margin-left: 40px;
+  border-radius: 7px;
+}
+.date{
+  border: #1f0499 solid;
+  margin-left: 40px;
+  border-radius: 7px;
+}
+.country{
+  border: #1f0499 solid;
+  margin-left: 40px;
+  border-radius: 7px;
+}
+.terminos{
+  color:#1f0499;
+  font-weight: bold;
+}
+.terminos a{
+  text-decoration: none;
+}
