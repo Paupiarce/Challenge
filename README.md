@@ -3,24 +3,24 @@ cosas que realicé:\
 -el form\
 -le agregué estilos\
 -las validaciones (onSubmit)\
--deployar en vercel\
+-deployar en vercel
 
 
 no pude lograr:\
 -Mandar las respuestas del form a mi base de datos en firebase\
--Hacer una ruta nueva para mostrar las respuestas del form\
+-Hacer una ruta nueva para mostrar las respuestas del form
 
 me gustaría lograr:\
 -Que funcione la conexión con firebase\
 -Poder implementar las rutas con react router\
--Poder armar las validaciones "onBlur"\
+-Poder armar las validaciones "onBlur"
 
 cosas que aprendí:\
 -Aprendí un poco de firebase\
 -Aprendí como usar import y export\
 -Aprendí a no usar una variable sin definirla \
 -Aprendí sobre safety navigation (con esto, me refiero al signo de interogación en casos como este: form.email?.trim) \
--También use por pirmera vez el short circuit\
+-También use por pirmera vez el short circuit
 
 # Getting Started with Create React App
 
