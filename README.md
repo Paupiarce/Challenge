@@ -1,21 +1,21 @@
 ## `Hola!! Acá entrego el challenge.`
-cosas que realicé:
+cosas que realicé:\
 -el form
 -le agregué estilos
 -las validaciones (onSubmit)
 -deployar en vercel
 
 
-no pude lograr:
+no pude lograr:\
 -Mandar las respuestas del form a mi base de datos en firebase
 -hacer una ruta nueva para mostrar las respuestas del form
 
-me gustaría lograr:
+me gustaría lograr:\
 -que funcione la conexión con firebase
 -poder implementar las rutas con react router
 -poder armar las validaciones "onBlur"
 
-cosas que aprendí:
+cosas que aprendí:\
 -aprendí un poco de firebase
 -aprendí como usar import y export
 -aprendí a no usar una variable sin definirla 
