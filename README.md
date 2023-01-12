@@ -1,5 +1,26 @@
+Hola!! Acá entrego el challenge.
+cosas que realicé:
+-el form
+-le agregué estilos
+-las validaciones (onSubmit)
+-deployar en vercel
 
 
+no pude lograr:
+-Mandar las respuestas del form a mi base de datos en firebase
+-hacer una ruta nueva para mostrar las respuestas del form
+
+me gustaría lograr:
+-que funcione la conexión con firebase
+-poder implementar las rutas con react router
+-poder armar las validaciones "onBlur"
+
+cosas que aprendí:
+-aprendí un poco de firebase
+-aprendí como usar import y export
+-aprendí a no usar una variable sin definirla 
+-aprendí sobre safety navigation (con esto, me refiero al signo de interogación en casos como este: form.email?.trim) 
+-También use por pirmera vez el short circuit, que lo usé en casos como este: {errors.email && <p style={styles}>{errors.email}</p>}
 
 # Getting Started with Create React App
 
