@@ -20,7 +20,7 @@ cosas que aprendí:\
 -Aprendí como usar import y export\
 -Aprendí a no usar una variable sin definirla \
 -Aprendí sobre safety navigation (con esto, me refiero al signo de interogación en casos como este: form.email?.trim) \
--También use por pirmera vez el short circuit, que lo usé en casos como este: {errors.email && <p style={styles}>{errors.email}</p>}\
+-También use por pirmera vez el short circuit\
 
 # Getting Started with Create React App
 
